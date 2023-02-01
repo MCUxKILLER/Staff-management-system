@@ -1,0 +1,3 @@
+3 9 ECE pranav 10000
+3 48 ECE gujju 15000
+3 67 ECE tarun 13000
